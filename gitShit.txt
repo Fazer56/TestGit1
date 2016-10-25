@@ -1,0 +1,16 @@
+using Git to upload files to git
+
+/documents/sketchbook/testgit1
+
+//command
+git init
+
+git remote add origin https://github.com...(github url)
+
+git pull origin master 
+remote: Counting objects 5, done.
+remote: Compressing objects: 100% (4/4) done.
+remote:  total 5 (delta 0)
+
+READ FIRST 3 chapters of GIT manual
+ 
